@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.js": "/KitAPP/my-app/static/js/app.5c66cf5f.chunk.js",
+    "app.js.map": "/KitAPP/my-app/static/js/app.5c66cf5f.chunk.js.map",
+    "runtime~app.js": "/KitAPP/my-app/static/js/runtime~app.702d7a3d.js",
+    "runtime~app.js.map": "/KitAPP/my-app/static/js/runtime~app.702d7a3d.js.map",
+    "static/js/2.68efafc5.chunk.js": "/KitAPP/my-app/static/js/2.68efafc5.chunk.js",
+    "static/js/2.68efafc5.chunk.js.map": "/KitAPP/my-app/static/js/2.68efafc5.chunk.js.map",
+    "favicon-16.png": "/KitAPP/my-app/favicon-16.png",
+    "favicon-32.png": "/KitAPP/my-app/favicon-32.png",
+    "favicon.ico": "/KitAPP/my-app/favicon.ico",
+    "index.html": "/KitAPP/my-app/index.html",
+    "manifest.json": "/KitAPP/my-app/manifest.json",
+    "serve.json": "/KitAPP/my-app/serve.json",
+    "static/js/2.68efafc5.chunk.js.LICENSE.txt": "/KitAPP/my-app/static/js/2.68efafc5.chunk.js.LICENSE.txt",
+    "static/media/br.jpg": "/KitAPP/my-app/static/media/br.d35e71a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.702d7a3d.js",
+    "static/js/2.68efafc5.chunk.js",
+    "static/js/app.5c66cf5f.chunk.js"
+  ]
+}
