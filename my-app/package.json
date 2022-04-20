@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://NovikovM18.github.io/KitAPP/my-app",
+  "homepage": "https://NovikovM18.github.io/KitAPP",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
